@@ -13,11 +13,11 @@ My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungari
 
 **Others said about me**
 
-> "One of your values of your contribution to the community is you often come from a different angle. [...] From experience you are quick to find limitations in [TiddlyWiki] and quick to destroy these by developing a working solution." -- [TonyM](https://groups.google.com/d/msg/tiddlywiki/YSgcCL2EeNQ/FSNu4O2TEAAJ)
+> "One of your values of your contribution to the community is you often come from a different angle. [...] From experience you are quick to find limitations in TiddlyWiki and quick to destroy these by developing a working solution." -- [TonyM](https://groups.google.com/d/msg/tiddlywiki/YSgcCL2EeNQ/FSNu4O2TEAAJ)
 
 > "Like usual you have solved something no one else could for a long time. Great work." -- [TonyM](https://groups.google.com/d/msg/tiddlywiki/s3AVhRKVXcs/H7NIH3rPAQAJ)
 
-> "Kudos! As a [TiddlyWiki] developer for near 10 years I have attempted 3 times to do what you did and failed." - [sukima](https://gitlab.com/bimlas/tw5-disqus/issues/1)
+> "Kudos! As a TiddlyWiki developer for near 10 years I have attempted 3 times to do what you did and failed." - [sukima](https://gitlab.com/bimlas/tw5-disqus/issues/1)
 
 > "Your tool is Leet, sir." - [h0p3](https://groups.google.com/d/msg/tiddlywiki/xAe_fvhzoCY/-l-mf2CnDgAJ)
 
