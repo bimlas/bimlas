@@ -2,7 +2,7 @@
 
 My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungarian, self-taught **developer who trying to make versatile stuff**.
 
-![bimlas's Github stats](https://github-readme-stats.vercel.app/api?username=bimlas&show_icons=true&theme=solarized-light)
+![bimlas's Github stats](https://github-readme-stats.vercel.app/api?username=bimlas&show_icons=true&include_all_commits=true)
 
 **Made by me**
 
