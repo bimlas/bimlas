@@ -2,8 +2,6 @@
 
 My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungarian, self-taught **developer who trying to make versatile stuff**.
 
-![bimlas's Github stats](https://github-readme-stats.vercel.app/api?username=bimlas&show_icons=true&include_all_commits=true&disable_animations=true&hide_title=true&hide_rank=true&hide=contribs)
-
 **Made by me**
 
 * Coding
@@ -12,6 +10,8 @@ My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungari
   * [DeviantArt](https://bimbalaszlo.deviantart.com/gallery/)
 * Music (or at least some kind of it)
   * [YouTube](https://www.youtube.com/playlist?list=PL8t8M1MbM7fuGMgfewL8a2_m-nuOgpg4u)
+
+![bimlas's Github stats](https://github-readme-stats.vercel.app/api?username=bimlas&show_icons=true&include_all_commits=true&disable_animations=true&hide_title=true&hide_rank=true&hide=contribs)
 
 **Others said about me**
 
