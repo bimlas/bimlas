@@ -27,6 +27,7 @@ My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungari
 
 * [Linux](https://en.wikipedia.org/wiki/Linux) (2009) (frankly, I switch back and forth between Windows and Linux from time to time)
 * [Vim](https://www.vim.org) (2011)
+* [VSCode](https://code.visualstudio.com) (2021)
 * [Git](https://git-scm.com) (2014)
 * [Asciidoctor](https://asciidoctor.org) (2014)
 * [TiddlyWiki](https://tiddlywiki.com/) (2018)
