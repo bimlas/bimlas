@@ -2,6 +2,8 @@
 
 My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungarian, self-taught **developer who trying to make versatile stuff**.
 
+![bimlas's Github stats](https://github-readme-stats.vercel.app/api?username=bimlas&show_icons=true&theme=solarized-light)
+
 **Made by me**
 
 * Coding
@@ -32,5 +34,3 @@ My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungari
 * [Vivaldi](https://vivaldi.com/) (2017)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) (2017)
 * [Vagrant](https://www.vagrantup.com/) (2017)
-
-![bimlas's Github stats](https://github-readme-stats.vercel.app/api?username=bimlas&show_icons=true&theme=solarized-light)
