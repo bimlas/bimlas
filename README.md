@@ -33,3 +33,4 @@ My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungari
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) (2017)
 * [Vagrant](https://www.vagrantup.com/) (2017)
 
+![bimlas's Github stats](https://github-readme-stats.vercel.app/api?username=bimlas&show_icons=true&theme=solarized-light)
