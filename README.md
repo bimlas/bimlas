@@ -26,6 +26,7 @@ My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungari
 **My favourite tools (using since ...)**
 
 * [Linux](https://en.wikipedia.org/wiki/Linux) (2009) (frankly, I switch back and forth between Windows and Linux from time to time)
+* [Tmux](https://github.com/tmux/tmux) (2021)
 * [Vim](https://www.vim.org) (2011)
 * [VSCode](https://code.visualstudio.com) (2021)
 * [Git](https://git-scm.com) (2014)
