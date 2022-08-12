@@ -34,5 +34,5 @@ My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungari
 * [TiddlyWiki](https://tiddlywiki.com/) (2018)
 * [Zettelkasten method](https://zettelkasten.de/posts/overview/) (2020)
 * [Vivaldi](https://vivaldi.com/) (2017)
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) (2017)
-* [Vagrant](https://www.vagrantup.com/) (2017)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) (2017-2021)
+* [Vagrant](https://www.vagrantup.com/) (2017-2021)
