@@ -37,3 +37,4 @@ My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungari
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) (2017-2021)
 * [Vagrant](https://www.vagrantup.com/) (2017-2021)
 * [Docker](https://www.docker.com) (2021)
+* [Kubernetes](https://kubernetes.io/) (2022)
