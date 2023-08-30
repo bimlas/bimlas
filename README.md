@@ -26,14 +26,12 @@ My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungari
 **My favourite tools (using since ...)**
 
 * [Linux](https://en.wikipedia.org/wiki/Linux) (2009)
+* [AwesomeWM](https://awesomewm.org/) (2023)
 * [Tmux](https://github.com/tmux/tmux) (2021)
 * [Vim](https://www.vim.org) (2011)
-* [VSCode](https://code.visualstudio.com) (2021-2022)
 * [Git](https://git-scm.com) (2014)
 * [Asciidoctor](https://asciidoctor.org) (2014-2018)
 * [TiddlyWiki](https://tiddlywiki.com/) (2018)
 * [Zettelkasten method](https://zettelkasten.de/posts/overview/) (2020)
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) (2017-2021)
-* [Vagrant](https://www.vagrantup.com/) (2017-2021)
 * [Docker](https://www.docker.com) (2021)
 * [Kubernetes](https://kubernetes.io/) (2022)
