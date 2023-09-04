@@ -26,12 +26,14 @@ My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungari
 **My favourite tools (using since ...)**
 
 * [Linux](https://en.wikipedia.org/wiki/Linux) (2009)
-* [AwesomeWM](https://awesomewm.org/) (2023)
+* [Zsh](https://zsh.sourceforge.io/) (2015)
+* [FZF](https://github.com/junegunn/fzf#readme) (2015)
 * [Tmux](https://github.com/tmux/tmux) (2021)
 * [Vim](https://www.vim.org) (2011)
 * [Git](https://git-scm.com) (2014)
-* [Asciidoctor](https://asciidoctor.org) (2014-2018)
-* [TiddlyWiki](https://tiddlywiki.com/) (2018)
-* [Zettelkasten method](https://zettelkasten.de/posts/overview/) (2020)
 * [Docker](https://www.docker.com) (2021)
 * [Kubernetes](https://kubernetes.io/) (2022)
+* [AwesomeWM](https://awesomewm.org/) (2023)
+* [Rofi](https://github.com/davatorium/rofi#readme) (2023)
+* [TiddlyWiki](https://tiddlywiki.com/) (2018)
+* [Zettelkasten method](https://zettelkasten.de/posts/overview/) (2020)
