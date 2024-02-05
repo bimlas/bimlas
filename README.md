@@ -5,7 +5,7 @@ My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungari
 **Made by me**
 
 * Coding
-  * [GitLab](https://gitlab.com/bimlas), [GitHub](https://github.com/bimlas)
+  * [GitHub](https://github.com/bimlas)
 * Graphics
   * [DeviantArt](https://bimbalaszlo.deviantart.com/gallery/)
 * Music (or at least some kind of it)
