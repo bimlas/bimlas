@@ -35,5 +35,6 @@ My name is **Bimba László** (known as **bimlas** on the net) and I'm a Hungari
 * [Kubernetes](https://kubernetes.io/) (2022)
 * [AwesomeWM](https://awesomewm.org/) | [i3](https://i3wm.org/) (2023)
 * [Rofi](https://github.com/davatorium/rofi#readme) (2023)
+* Taking notes in various ways (2014)
 * [TiddlyWiki](https://tiddlywiki.com/) (2018)
 * [Zettelkasten method](https://zettelkasten.de/posts/overview/) (2020)
